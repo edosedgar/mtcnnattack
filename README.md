@@ -2,7 +2,7 @@
 
 By Edgar Kaziakhmedov, Klim Kireev, Grigorii Melnikov, Mikhail Pautov and Aleksandr Petiushko
 
-This is the code for AdvPatch research article. The video is available [here]().
+This is the code for the [research article](). The video is available [here]().
 
 ## Abstract 
 
