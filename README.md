@@ -1,4 +1,4 @@
-# AdvPatch: Real-world attack on MTCNN face detection system
+# Real-world attack on MTCNN face detection system
 
 By Edgar Kaziakhmedov, Klim Kireev, Grigorii Melnikov, Mikhail Pautov and Aleksandr Petiushko
 
