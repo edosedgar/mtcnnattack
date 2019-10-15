@@ -2,7 +2,7 @@
 
 By Edgar Kaziakhmedov, Klim Kireev, Grigorii Melnikov, Mikhail Pautov and Aleksandr Petiushko
 
-This is the code for the [research article](). The video is available [here](https://youtu.be/OY70OIS8bxs).
+This is the code for the [research article](http://arxiv.org/abs/1910.06261). The video is available [here](https://youtu.be/OY70OIS8bxs).
 
 ## Abstract 
 
