@@ -31,6 +31,17 @@ The rest of the code is well-documented.
 
 NOTE: paste yout own TensofFlow implementation of *resize_area_batch* function (INTER_AREA resize algorithm)
 
+## Citation
+
+```
+@article{kaziakhmedov2019real,
+  title={Real-world attack on MTCNN face detection system},
+  author={Kaziakhmedov, Edgar and Kireev, Klim and Melnikov, Grigorii and Pautov, Mikhail and Petiushko, Aleksandr},
+  journal={arXiv preprint arXiv:1910.06261},
+  year={2019}
+}
+```
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
