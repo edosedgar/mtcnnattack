@@ -30,6 +30,7 @@ The attack is implemented in **adversarial_gen.py** source file, in order to tra
 The rest of the code is well-documented.
 
 NOTE: paste yout own TensofFlow implementation of *resize_area_batch* function (INTER_AREA resize algorithm)
+OR use [this](https://github.com/Polkach/cv-inter_area-on-tensorflow) one
 
 ## Citation
 
